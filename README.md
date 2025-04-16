@@ -43,7 +43,6 @@ This project demonstrates how predictive analytics and supply chain simulations 
 - **Inventory vs Forecasted Demand:** Time-based view of inventory depletion vs demand signal.
 - **KPI Bar Chart:** Summarizes the simulation outcomes (stockouts, reorders, service rate).
 
-![KPI Chart](./dashboard/kpi_chart.png) *(add after screenshot)*
 
 *Created by Abhishek Kumar Singh – Business Analytics & Machine Learning @ UMass Lowell*
 
