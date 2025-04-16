@@ -29,14 +29,11 @@ This project demonstrates how predictive analytics and supply chain simulations 
 - ARIMA(1,1,1) model was trained on 80% of the data.
 - Forecasted demand closely followed the actual trend with a Root Mean Squared Error (**RMSE**) of ~22 units.
 
-![ARIMA Plot](./dashboard/arima_forecast.png) *(add after screenshot)*
-
 ## 🤖 LSTM Forecast (Neural Network)
 
 - An LSTM model (4-week lookback) was trained to capture temporal patterns.
 - Prediction curve aligns closely with the real demand but requires more data and tuning for production use.
 
-> *TensorFlow section included in notebook – ready for Colab or local training.*
 
 ## 📊 Visualizations
 
